@@ -1,7 +1,9 @@
 function Footer(){
     return(
         <footer>
-            <img src="./images/Twitter Icon.png" alt="Twitter icon"></img>
+            <h1>conctacts</h1>
+            <img src="src\images\TwitterIcon.png" alt="Twitter icon"></img>
+            <img src="./images/Facebook Icon.png" alt="Facebook icon"></img>
         </footer>
     )
 }
